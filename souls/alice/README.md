@@ -1,8 +1,12 @@
 # Apathetic Alice
 
 > "The other souls call me Apathetic Alice because `I never took the time to understand Xprivs`. 
-My wallet exported this for me but I don't have the slightest clue on what it is or what to do with it. 
-I'm used to seeing a 12 or 24 word seed. I think this somehow holding my UXTO that is trapping me. Please help.”
+> My wallet exported this for me but I don't have the slightest clue on what it is or what to do with it. 
+> I'm used to seeing a 12 or 24 word seed. I think this somehow holding my UXTO that is trapping me. Please help.”
+
+```
+xprv9s21ZrQH143K3kVxaer4FSKkM5W398t9VmMGLxmedqb8Ndw9N6rfcTHAfUyAYJ9o12TMQX7jd2Z6xGpuWBeBz4SfbCJP7tdvVsPkizKBtG2, 86'/0'/0'/0/*
+```
 
 ## Solution
 
