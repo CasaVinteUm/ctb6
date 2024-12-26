@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "frank", "frank\frank.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "judy", "judy\judy.csproj", "{29339E1E-96D4-4A19-854B-721012D917FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eve", "eve\eve.csproj", "{7EA06056-2C1A-4043-B356-ABFFEFD66C7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -46,5 +48,9 @@ Global
 		{29339E1E-96D4-4A19-854B-721012D917FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29339E1E-96D4-4A19-854B-721012D917FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29339E1E-96D4-4A19-854B-721012D917FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EA06056-2C1A-4043-B356-ABFFEFD66C7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EA06056-2C1A-4043-B356-ABFFEFD66C7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EA06056-2C1A-4043-B356-ABFFEFD66C7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EA06056-2C1A-4043-B356-ABFFEFD66C7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
